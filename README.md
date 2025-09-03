@@ -41,7 +41,7 @@
 
 ## 📫 Connect With Me
 - ✉️ Email: **rhommelpalermo49@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 💼 LinkedIn:
 - 🐙 GitHub: [github.com/rhommelpalermo](https://github.com/rhommelpalermo)  
 
 ---
