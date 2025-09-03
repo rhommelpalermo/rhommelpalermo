@@ -1,9 +1,11 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">PALERMO, RHOMMEL M.</span></h1>
+<!-- Animated Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=PALERMO,+RHOMMEL+M." alt="Animated Name" />
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Student+at+BPSU+Main+Campus;Lifelong+Learner;Exploring+AI+and+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Student+at+BPSU+Main+Campus;Lifelong+Learner;Exploring+AI+and+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,4 +49,3 @@
 <p align="center">
   ⭐ *“Continuous learning is the key to growth.”* ⭐
 </p>
-
